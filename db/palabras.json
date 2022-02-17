@@ -4,42 +4,48 @@
       "espaniol": "Agrupado, coleccionado",
       "tzutujil": "Chuyuchik",
       "exes": "Parece que lo tienen coleccionado",
-      "extzu": "Chuyuchik b'anoon chi re q'aalaaj"
+      "extzu": "Chuyuchik b'anoon chi re q'aalaaj",
+      "audiosrc": "audio/1.ogg"
    },
    {
       "id": "2",
       "espaniol": "Agua caliente",
       "tzutujil": "Maq'en ya'",
       "exes": "Quiero agua caliente",
-      "extzu": "Maq'en ya' nwaajo'"
+      "extzu": "Maq'en ya' nwaajo'",
+      "audiosrc": "audio/2.ogg"
    },
    {
       "id": "3",
       "espaniol": "Agua chiva",
       "tzutujil": "Upe'n",
       "exes": "Prepare el agu achiva",
-      "extzu": "Tachojmirisaaj jar upe'n"
+      "extzu": "Tachojmirisaaj jar upe'n",
+      "audiosrc": "audio/3.ogg"
    },
    {
       "id": "4",
       "espaniol": "Agua potable",
       "tzutujil": "Raxaya'",
       "exes": "¿Hay agua potable con ustedes?",
-      "extzu": "La k'o raxaya' ewuk'iin"
+      "extzu": "La k'o raxaya' ewuk'iin",
+      "audiosrc": "audio/4.ogg"
    },
    {
       "id": "5",
       "espaniol": "Agua, lago",
       "tzutujil": "Ya'",
       "exes": "¿Dónde está el agua?",
-      "extzu": "¿Awi ja ya'?"
+      "extzu": "¿Awi ja ya'?",
+      "audiosrc": "audio/5.ogg"
    },
    {
       "id": "6",
       "espaniol": "Aguacate",
       "tzutujil": "Kooj",
       "exes": "Donde están los aguacates de mis compañeros",
-      "extzu": "Awi ja kooj wachib'iil"
+      "extzu": "Awi ja kooj wachib'iil",
+      "audiosrc": "audio/6.ogg"
    },
    {
       "id": "7",
