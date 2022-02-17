@@ -1,0 +1,2 @@
+# tzutujildict
+Diccionario Tzutujil
