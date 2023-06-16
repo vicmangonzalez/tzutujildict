@@ -1,2 +1,2 @@
 # tzutujildict
-Diccionario Tzutujil
+Link: https://vicmangonzalez.github.io/tzutujildict/
